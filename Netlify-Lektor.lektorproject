@@ -1,2 +1,5 @@
 [project]
 name = Netlify-Lektor
+
+[servers.ghpages]
+target = ghpages://munkymack.github.io/lektor
